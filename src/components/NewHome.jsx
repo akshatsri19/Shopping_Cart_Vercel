@@ -95,7 +95,7 @@ function NewHome() {
                         {cartItems?.price} $
                       </h4>
                     </div>
-                    {/* ✅Remove from Cart */}
+                    ✅Remove from Cart
                     <button onClick={() => removeItems(index)}>
                       ❌Remove Item
                     </button>
